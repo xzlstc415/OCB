@@ -44,13 +44,6 @@ const About = () => (
           title="Co-founder/CEO"
           description="As CEO of Ontario Cash Buyers. Lee brings a diverse set of skills to the company. With a background in computer programming, Lee has a keen eye to analyzing and interpreting data. A few of Lee’s daily activities include analyzing property, overlooking teams for flip projects, property management, and short-term rentals such as AirBnB."
         />
-        <AboutCard
-          name="Vince Traina"
-          title="Co-founder/COO"
-          description="Passionate about all things Real Estate, Vince serves proudly as Chief Operations Officer by bringing his creative approach to problem solving for best possible outcomes.
-
-          Vince first became interested in Real Estate after seeing the demand from people needing trusted ways to allocate their resources for higher than expected returns. On an average day at Ontario Cash Buyers. you can find Vince focusing his attention on client relations, locating under performing properties, and creating fresh investing opportunities for new and existing clients."
-        />
       </div>
     </div>
   </Layout>
